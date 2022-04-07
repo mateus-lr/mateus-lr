@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou em transição de carreira, estudando bastante para ser um Front-end developer. 🤟
 - 🌱 Estou estudando HTML, CSS e Javascript.
-- ⚡ Sobre mim: Tenho 27 anos, faço faculdade de Desenvolvimento Web e gosto de passar meu tempo vago com a minha familia! 👩‍❤️‍💋‍👨 🐈🐈‍
+- ⚡ Sobre mim: Tenho 27 anos, faço faculdade de Desenvolvimento Web e gosto de passar meu tempo vago com a minha familia! 👩‍❤️‍💋‍👨 🐈 🐈
 
 <div align="center">
   <a href="https://github.com/mateus-lr">
