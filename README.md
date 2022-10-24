@@ -1,7 +1,6 @@
-### Olá, me chamo Mateus 👋
+![Header](./your-header-image-name.png)
 
 - 🔭 Atualmente estou em transição de carreira, estudando bastante para ser um Front-end developer. 🤟
-- 🌱 Estou estudando HTML, CSS e Javascript.
 - ⚡ Tenho 27 anos, faço faculdade de Desenvolvimento Web e gosto de passar meu tempo vago com a minha familia! 👩‍❤️‍💋‍👨 🐈 🐈
 
 <div align="center">
